@@ -5,7 +5,7 @@ import { RiAccountCircleFill } from "react-icons/ri";
 
 const Menu = () => {
   return (
-    <div>
+    <div className='fixed top-0 left-0 w-full z-50 bg-white border-b-[2px] border-b-black'>
         <Container>
             <div className=" flex justify-between items-center py-[10px] shadow-xl shadow-white ">
                 <div className="w-[25%]">

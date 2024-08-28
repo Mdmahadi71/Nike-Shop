@@ -27,7 +27,7 @@ const Review = () => {
                             <img src={reviewOne} alt="" />
                         </div>
                         <div className="">
-                            <h2>Ranidi Lochana</h2>
+                            <h2 className=' font-Inter font-medium text-[20px] text-black'>Ranidi Lochana</h2>
                             <div className=" flex items-center gap-x-[10px] text-yellow-400">
                                 <FaStar/>
                                 <FaStar/>
@@ -48,7 +48,7 @@ const Review = () => {
                             <img src={reviewtow} alt="" />
                         </div>
                         <div className="">
-                            <h2>Ranidi Lochana</h2>
+                            <h2 className=' font-Inter font-medium text-[20px] text-black'>Sayuru Tharanga</h2>
                             <div className=" flex items-center gap-x-[10px] text-yellow-400">
                                 <FaStar/>
                                 <FaStar/>
@@ -69,7 +69,7 @@ const Review = () => {
                             <img src={reviewthree} alt="" />
                         </div>
                         <div className="">
-                            <h2>Ranidi Lochana</h2>
+                            <h2 className=' font-Inter font-medium text-[20px] text-black'>Senuda Dilwan</h2>
                             <div className=" flex items-center gap-x-[10px] text-yellow-400">
                                 <FaStar/>
                                 <FaStar/>
@@ -92,7 +92,7 @@ const Review = () => {
                             <img src={reviewfure} alt="" />
                         </div>
                         <div className="">
-                            <h2>Ranidi Lochana</h2>
+                            <h2 className=' font-Inter font-medium text-[20px] text-black'>Kaveesha Vidurangi</h2>
                             <div className=" flex items-center gap-x-[10px] text-yellow-400">
                                 <FaStar/>
                                 <FaStar/>
@@ -113,7 +113,7 @@ const Review = () => {
                           <img src={reviewfive} alt="" />
                         </div>
                         <div className="">
-                            <h2>Ranidi Lochana</h2>
+                            <h2 className=' font-Inter font-medium text-[20px] text-black'>John Deo</h2>
                             <div className=" flex items-center gap-x-[10px] text-yellow-400">
                                 <FaStar/>
                                 <FaStar/>
@@ -134,7 +134,7 @@ const Review = () => {
                           <img src={reviewsix} alt="" />
                         </div>
                         <div className="">
-                            <h2>Ranidi Lochana</h2>
+                            <h2 className=' font-Inter font-medium text-[20px] text-black'>Charith Aruna</h2>
                             <div className=" flex items-center gap-x-[10px] text-yellow-400">
                                 <FaStar/>
                                 <FaStar/>

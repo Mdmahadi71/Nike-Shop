@@ -6,33 +6,33 @@ import { FaHeadphonesAlt } from "react-icons/fa";
 
 const Service = () => {
   return (
-    <div>
+    <div className=' py-[40px]'>
       <Container>
         <div className="">
-            <h2>Our Service</h2>
+            <h2 className=' font-bold font-Inter text-[45px] text-black text-center my-[20px]'>Our <span className='text-[#c72092] '>Service</span></h2>
         </div>
         <div className=" w-[800px] mx-auto">
             <div className=" flex justify-between">
-                <div className=" w-[32%]">
-                    <div className=" text-[60px] text-orange-200 text-center">
-                        <TbTruckDelivery/>
+                <div className=" w-[32%] ">
+                    <div className=" w-[80px] mx-auto text-[60px] text-yellow-400 text-center">
+                        <TbTruckDelivery className=''/>
                     </div>
-                    <h2>Fast Delivery</h2>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                    <h2 className=' font-Inter font-medium text-[20px] text-[#000000] text-center my-[10px]'>Fast Delivery</h2>
+                    <p className=' font-Inter font-normal text-[15px] text-[#000000] text-center'>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
                 </div>
                 <div className=" w-[32%]">
-                    <div className="">
-                        <TbTruckDelivery/>
+                    <div className="w-[80px] mx-auto text-[60px] text-yellow-400 text-center">
+                        <MdReplay/>
                     </div>
-                    <h2>Fast Delivery</h2>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                    <h2 className=' font-Inter font-medium text-[20px] text-[#000000] text-center my-[10px]'>10 Days Replacement</h2>
+                    <p className=' font-Inter font-normal text-[15px] text-[#000000] text-center'>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
                 </div>
                 <div className=" w-[32%]">
-                    <div className="">
-                        <TbTruckDelivery/>
+                    <div className=" w-[80px] mx-auto text-[60px] text-yellow-400 text-center">
+                        <FaHeadphonesAlt/>
                     </div>
-                    <h2>Fast Delivery</h2>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                    <h2 className=' font-Inter font-medium text-[20px] text-[#000000] text-center my-[10px]'>24 x 7 Support</h2>
+                    <p className=' font-Inter font-normal text-[15px] text-[#000000] text-center'>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
                 </div>
             </div>
         </div>
