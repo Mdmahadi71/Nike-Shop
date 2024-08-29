@@ -20,8 +20,8 @@ const About = () => {
         <div className="">
             <h2 className=' font-Inter font-bold text-[45px] text-[#c72092] text-center my-[20px]'>About</h2>
         </div>
-        <div className=" flex justify-between items-center">
-            <div className="w-[48%]">
+        <div className=" lg:flex justify-between items-center">
+            <div className="lg:w-[48%] lg:my-0 my-[20px]">
                 <div className=" flex justify-between items-center">
                     <div className="w-[25%]">
                         <div  className=" py-2 px-2 bg-gradient-to-r from-violet-500 to-fuchsia-500  rounded-[10px] my-[10px]">
@@ -44,7 +44,7 @@ const About = () => {
                     </div>
                 </div>
             </div>
-            <div className="w-[48%]">
+            <div className="lg:w-[48%] lg:my-[0px] my-[20px]">
                 <div className=" border-[2px] border-[#c72092] p-[20px] shadow-xl shadow-[#c72092] rounded-[15px]">
                     <p className=' font-Inter font-normal text-[15px] text-black'>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece 
                         of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor

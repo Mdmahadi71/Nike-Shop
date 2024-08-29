@@ -19,8 +19,8 @@ const Product = () => {
         <div className=" text-center py-[30px]">
             <h2 className=' font-Inter font-semibold text-[45px] text-[#c72092]'>Products</h2>
         </div>
-        <div className=" flex justify-between">
-            <div className="w-[24%]">
+        <div className=" lg:flex justify-between">
+            <div className="lg:w-[24%] lg:my-0 my-4">
                 <div className=" border-[2px] border-[#6c14d0] py-[20px] px-[15px] items-center text-center
                   bg-[#f6f6f6] rounded-[8px] shadow-xl shadow-[#6c14d0] relative  group overflow-hidden">
                     <div className=" w-[100px] mx-auto transform group-hover:scale-[1.3] duration-300">
@@ -52,7 +52,7 @@ const Product = () => {
                     </div>
                 </div>
             </div>
-            <div className="w-[24%]">
+            <div className="lg:w-[24%] lg:my-0 my-4">
                 <div className=" border-[2px] border-[#6c14d0] py-[20px] px-[15px] items-center text-center
                   bg-[#f6f6f6] rounded-[8px] shadow-xl shadow-[#6c14d0] relative  group overflow-hidden">
                     <div className=" w-[100px] mx-auto transform group-hover:scale-[1.3] duration-300">
@@ -84,7 +84,7 @@ const Product = () => {
                     </div>
                 </div>
             </div>
-            <div className="w-[24%]">
+            <div className="lg:w-[24%] lg:my-0 my-4">
                 <div className=" border-[2px] border-[#6c14d0] py-[20px] px-[15px] items-center text-center
                   bg-[#f6f6f6] rounded-[8px] shadow-xl shadow-[#6c14d0] relative  group overflow-hidden">
                     <div className=" w-[100px] mx-auto transform group-hover:scale-[1.3] duration-300">
@@ -116,7 +116,7 @@ const Product = () => {
                     </div>
                 </div>
             </div>
-            <div className="w-[24%]">
+            <div className="lg:w-[24%] lg:my-0 my-4">
                 <div className=" border-[2px] border-[#6c14d0] py-[20px] px-[15px] items-center text-center
                   bg-[#f6f6f6] rounded-[8px] shadow-xl shadow-[#6c14d0] relative  group overflow-hidden">
                     <div className=" w-[100px] mx-auto transform group-hover:scale-[1.3] duration-300">
@@ -149,8 +149,8 @@ const Product = () => {
                 </div>
             </div>
         </div>
-        <div className=" flex justify-between my-[20px]">
-            <div className="w-[24%]">
+        <div className=" lg:flex justify-between my-[20px]">
+            <div className="lg:w-[24%] lg:my-0 my-4">
                 <div className=" border-[2px] border-[#6c14d0] py-[20px] px-[15px] items-center text-center
                   bg-[#f6f6f6] rounded-[8px] shadow-xl shadow-[#6c14d0] relative  group overflow-hidden">
                     <div className=" w-[100px] mx-auto transform group-hover:scale-[1.3] duration-300">
@@ -182,7 +182,7 @@ const Product = () => {
                     </div>
                 </div>
             </div>
-            <div className="w-[24%]">
+            <div className="lg:w-[24%] lg:my-0 my-4">
                 <div className=" border-[2px] border-[#6c14d0] py-[20px] px-[15px] items-center text-center
                   bg-[#f6f6f6] rounded-[8px] shadow-xl shadow-[#6c14d0] relative  group overflow-hidden">
                     <div className=" w-[100px] mx-auto transform group-hover:scale-[1.3] duration-300">
@@ -214,7 +214,7 @@ const Product = () => {
                     </div>
                 </div>
             </div>
-            <div className="w-[24%]">
+            <div className="lg:w-[24%] lg:my-0 my-4">
                 <div className=" border-[2px] border-[#6c14d0] py-[20px] px-[15px] items-center text-center
                   bg-[#f6f6f6] rounded-[8px] shadow-xl shadow-[#6c14d0] relative  group overflow-hidden">
                     <div className=" w-[100px] mx-auto transform group-hover:scale-[1.3] duration-300">
@@ -246,7 +246,7 @@ const Product = () => {
                     </div>
                 </div>
             </div>
-            <div className="w-[24%]">
+            <div className="lg:w-[24%] lg:my-0 my-4">
                 <div className=" border-[2px] border-[#6c14d0] py-[20px] px-[15px] items-center text-center
                   bg-[#f6f6f6] rounded-[8px] shadow-xl shadow-[#6c14d0] relative  group overflow-hidden">
                     <div className=" w-[100px] mx-auto transform group-hover:scale-[1.3] duration-300">

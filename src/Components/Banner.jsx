@@ -29,7 +29,7 @@ const Banner = () => {
             </div>
             <div className="w-[50%]">
                 <div className="">
-                   <div className=" w-[400px] mx-auto">
+                   <div className=" lg:w-[400px]  mx-auto">
                      <img src={bannerimg} alt="" />
                    </div>
                    <div className=" right-[20px]  absolute top-[50%]">

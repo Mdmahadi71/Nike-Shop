@@ -18,7 +18,7 @@ const Login = () => {
                 <div className="w-[48%] ">
                     <div className="">
                       <div className="">
-                        <h3 className=' font-Inter font-bold text-[45px] text-black'>Welcome Back!</h3>
+                        <h3 className=' font-Inter font-bold lg:text-[45px] text-[30px] text-black'>Welcome Back!</h3>
                       </div>
                         <div className="">
                             <h2 className=' font-Inter font-light text-[14px] text-black'>User Name</h2>

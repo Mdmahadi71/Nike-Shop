@@ -11,7 +11,7 @@ const Service = () => {
         <div className="">
             <h2 className=' font-bold font-Inter text-[45px] text-black text-center my-[20px]'>Our <span className='text-[#c72092] '>Service</span></h2>
         </div>
-        <div className=" w-[800px] mx-auto">
+        <div className=" lg:w-[800px] mx-auto">
             <div className=" flex justify-between">
                 <div className=" w-[32%] ">
                     <div className=" w-[80px] mx-auto text-[60px] text-yellow-400 text-center">

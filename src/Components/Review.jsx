@@ -19,8 +19,8 @@ const Review = () => {
         <div className=" text-center py-[10px]">
             <h2 className=' font-Inter font-bold text-[45px] text-black'>Customer's <span className=' text-[#c72092]'>review</span></h2>
         </div>
-        <div className=" flex justify-between">
-            <div className="w-[32%]">
+        <div className=" lg:flex justify-between">
+            <div className="lg:w-[32%]">
                 <div className=" p-[20px] bg-[#f3f1f1] rounded-[15px] ">
                     <div className=" flex items-center gap-x-[20px]">
                         <div className=" w-[60px] h-[60px] overflow-hidden rounded-[50%] transform hover:scale-[1.2] duration-300">
@@ -41,7 +41,7 @@ const Review = () => {
                      voluptatibus dolorum modi assumenda eum? Aliquid inventore velit ipsa repellat numquam atque dolores!</p>
                 </div>
             </div>
-            <div className="w-[32%]">
+            <div className="lg:w-[32%] lg:my-0 my-[20px]">
                 <div className=" p-[20px] bg-[#f3f1f1] rounded-[15px] ">
                     <div className=" flex items-center gap-x-[20px]">
                         <div className=" w-[60px] h-[60px] overflow-hidden rounded-[50%] transform hover:scale-[1.2] duration-300">
@@ -62,7 +62,7 @@ const Review = () => {
                      voluptatibus dolorum modi assumenda eum? Aliquid inventore velit ipsa repellat numquam atque dolores!</p>
                 </div>
             </div>
-            <div className="w-[32%]">
+            <div className="lg:w-[32%] lg:my-0 my-[20px]">
                 <div className=" p-[20px] bg-[#f3f1f1] rounded-[15px]">
                     <div className=" flex items-center gap-x-[20px]">
                         <div className=" w-[60px] h-[60px] overflow-hidden rounded-[50%] transform hover:scale-[1.2] duration-300">
@@ -84,8 +84,8 @@ const Review = () => {
                 </div>
             </div>
         </div>
-        <div className=" flex justify-between my-[20px]">
-            <div className="w-[32%]">
+        <div className=" lg:flex justify-between my-[20px]">
+            <div className="lg:w-[32%] lg:my-0 my-[20px]">
                 <div className=" p-[20px] bg-[#f3f1f1] rounded-[15px] ">
                     <div className=" flex items-center gap-x-[20px]">
                         <div className=" w-[60px] h-[60px] overflow-hidden rounded-[50%] transform hover:scale-[1.2] duration-300">
@@ -106,7 +106,7 @@ const Review = () => {
                      voluptatibus dolorum modi assumenda eum? Aliquid inventore velit ipsa repellat numquam atque dolores!</p>
                 </div>
             </div>
-            <div className="w-[32%]">
+            <div className="lg:w-[32%] lg:my-0 my-[20px]">
                 <div className=" p-[20px] bg-[#f3f1f1] rounded-[15px] ">
                     <div className=" flex items-center gap-x-[20px]">
                         <div className=" w-[60px] h-[60px] overflow-hidden rounded-[50%] transform hover:scale-[1.2] duration-300">
@@ -127,7 +127,7 @@ const Review = () => {
                      voluptatibus dolorum modi assumenda eum? Aliquid inventore velit ipsa repellat numquam atque dolores!</p>
                 </div>
             </div>
-            <div className="w-[32%]">
+            <div className="lg:w-[32%] lg:my-0 my-[20px]">
                 <div className=" p-[20px] bg-[#f3f1f1] rounded-[15px] ">
                     <div className=" flex items-center gap-x-[20px]">
                         <div className=" w-[60px] h-[60px] overflow-hidden rounded-[50%] transform hover:scale-[1.2] duration-300">
